@@ -1,3 +1,3 @@
-# AI for Digital Health Research Group
+# About
 
-This group is headed by [Prof. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) at the Institute of Biomedical Engineering at the University of Oxford. 
+The Artificial Intelligence for Digital Health (AI4DH) group is headed by [Prof. Tingting Zhu](https://eng.ox.ac.uk/people/tingting-zhu/) at the Institute of Biomedical Engineering at the University of Oxford. 
